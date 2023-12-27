@@ -1,0 +1,19 @@
+.text1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.text2{
+    text-align: center;
+    font-style: italic;
+    font-size:xx-large;
+    color: yellow;
+}
+.pb-3 {
+    text-align: center;
+}
+
+.motivate{
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+}
